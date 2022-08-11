@@ -121,6 +121,10 @@ Editor.defaultConfig = {
 			'linkImage'
 		]
 	},
+	link: {
+		defaultProtocol: 'http://',
+		addTargetToExternalLinks: true
+	},
 	table: {
 		contentToolbar: [
 			'tableColumn',
