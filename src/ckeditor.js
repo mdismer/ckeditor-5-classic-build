@@ -71,7 +71,6 @@ Editor.builtinPlugins = [
 	Link,
 	LinkImage,
 	List,
-	Markdown,
 	MediaEmbed,
 	Mention,
 	PageBreak,
